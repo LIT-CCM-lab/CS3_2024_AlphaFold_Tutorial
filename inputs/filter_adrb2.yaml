@@ -1,0 +1,3 @@
+'database': 'GPCRdb_r'
+'excluded_protein':
+  - 'adrb2_human'
