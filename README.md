@@ -1,13 +1,13 @@
 # Strasbourg Summer School in Chemoinformatics 2024
 ## Multistate modelling using LIT-AlphaFold
 
-In this tutorial we will present you how to predict protein structures using AlphaFold, and how to evalaute the results, as well as some of the state of the art techniques for multistate modelling.
+In this tutorial we will present you how to predict protein structures using AlphaFold2, and how to evalaute the results, as well as some of the state of the art techniques for multistate modelling.
 
-All calculations are performed using the LIT-AlphaFold pipeline, which simplifies input generation and customization compared to the original AlphaFold implementation.
+All calculations are performed using the [LIT-AlphaFold](https://github.com/LIT-CCM-lab/LIT-AlphaFold) pipeline, which simplifies input generation and customization compared to the original AlphaFold implementation.
 
 To participate to the tutorial click on this link to the Colab Notebook:
 
-[Link to the tutorial](https://colab.research.google.com/github/LIT-CCM-lab/CS3_2024_AlphaFold_Tutorial/blob/main/CS3_AlphaFold_tutorial.ipynb)
+[Link to the tutorial](https://colab.research.google.com/github/LIT-CCM-lab/CS3_2024_AlphaFold_Tutorial/blob/master/CS3_AlphaFold_tutorial.ipynb)
 
 ## How to
 Here we include a few general notes that might be usefull during the tutorial
